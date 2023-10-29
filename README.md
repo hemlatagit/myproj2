@@ -1,1 +1,1 @@
-# myproj2
+This is the information file
